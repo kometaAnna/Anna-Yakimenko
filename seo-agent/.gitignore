@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.local
+.agent-serve
+memory
+ses_*
+clients/
+pipeline/cache/
+pipeline/.env
+__pycache__/
+*.pyc
